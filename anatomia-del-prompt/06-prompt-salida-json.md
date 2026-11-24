@@ -1,6 +1,6 @@
 # TAREA
 
-Extrae los datos y devuelve únicamente un objeto JSON.
+Extrae los datos y devuelve únicamente un objeto JSON en formato minify.
 
 # TEXTO
 La sesión tendrá 12 participantes.
