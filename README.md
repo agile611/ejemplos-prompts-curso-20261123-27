@@ -15,5 +15,7 @@
 - `documento-de-entrada.md`
 - `plantilla.md`
 
+La anatomia del prompt: https://docs.agile611.com/curso-prompt-engineering/dia-01-fundamentos/03-anatomia-del-prompt/
+
 ### `docs/`
 - `markdown.md`
