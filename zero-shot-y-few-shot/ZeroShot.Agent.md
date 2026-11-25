@@ -20,6 +20,18 @@ Incidencia > Sugerencia > Información > No determinada.
 No inventes detalles.
 Devuelve únicamente una tabla con identificador y categoría.
 
+Extrae los datos del texto.
+
+Devuelve únicamente JSON con:
+- participantes: entero o null
+- duracion_minutos: entero o null
+- modalidad: texto o null
+- fecha: texto o null
+
+Utiliza null si un dato no aparece o no está confirmado.
+No inventes valores.
+No añadas bloques Markdown.
+
 SOLICITUDES
 <solicitud>
 {{solicitud}}
