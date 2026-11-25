@@ -1,4 +1,5 @@
 # TAREA
+
 Distingue datos confirmados, propuestas e información pendiente.
 No conviertas una preferencia o propuesta en una confirmación.
 

@@ -24,4 +24,5 @@ fecha o periodo y persona de contacto.
 Después, incluye hasta tres preguntas prioritarias de aclaración.
 
 # CORREO
+
 [Inserta aquí el correo completo]
