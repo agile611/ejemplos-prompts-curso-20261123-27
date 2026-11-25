@@ -23,10 +23,12 @@ Si aparecen valores incompatibles:
 - No elijas uno salvo que la fuente establezca prioridad.
 
 # SALIDA
+
 Devuelve una tabla con:
 - Campo.
 - Valor.
 - Estado.
 
 # CORREO
+
 [Inserta aquí el correo completo]
