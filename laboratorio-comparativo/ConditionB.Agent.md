@@ -1,5 +1,5 @@
 ---
-name: ConditionB.Agent
+name: ConditionA.Agent
 description: A custom agent for extracting training requirements from a request in VS Code.
 target: vscode
 user-invocable: true
@@ -173,103 +173,8 @@ alertas:
 - No confirmes contratación.
 - Devuelve únicamente JSON válido.
 
-# DEMOSTRACIONES RESUELTAS
-
-## Demostración E01: datos completos
-
-Esta demostración enseña un caso directo.
-
-Se utilizará únicamente en la condición B.
-
-```text
-Entrada:
-Participarán 8 personas.
-La sesión presencial durará una hora.
-La fecha está confirmada para el 10 de diciembre de 2026.
-
-Salida:
-{
-  "participantes": 8,
-  "participantes_estado": "exacto",
-  "duracion_minutos": 60,
-  "modalidad": "presencial",
-  "fecha": "2026-12-10",
-  "fecha_estado": "confirmada",
-  "alertas": []
-}
-```
-
-## Demostración E02: aproximación y propuesta
-
-Esta demostración enseña dos estados importantes.
-
-No debe utilizarse como caso evaluado.
-
-```text
-Entrada:
-Participarán unas 20 personas.
-La sesión será online y durará dos horas.
-Proponemos el 12 de enero de 2027.
-
-Salida:
-{
-  "participantes": 20,
-  "participantes_estado": "aproximado",
-  "duracion_minutos": 120,
-  "modalidad": "online",
-  "fecha": "2027-01-12",
-  "fecha_estado": "propuesta",
-  "alertas": []
-}
-```
-
-## Demostración E03: información ausente
-
-Esta demostración enseña la representación de ausencias.
-
-No todas las claves necesitan un valor conocido.
-
-```text
-Entrada:
-Queremos una sesión virtual.
-Todavía no conocemos participantes, duración ni fecha.
-
-Salida:
-{
-  "participantes": null,
-  "participantes_estado": "no_indicado",
-  "duracion_minutos": null,
-  "modalidad": "online",
-  "fecha": null,
-  "fecha_estado": "no_indicada",
-  "alertas": []
-}
-```
-
-## Demostración E04: contradicción
-
-Esta demostración enseña a no elegir arbitrariamente.
-
-Las reglas siguen siendo necesarias.
-
-```text
-Entrada:
-Una nota indica 6 participantes y otra indica 9.
-No sabemos qué cifra es correcta.
-La sesión durará 45 minutos.
-
-Salida:
-{
-  "participantes": null,
-  "participantes_estado": "contradictorio",
-  "duracion_minutos": 45,
-  "modalidad": null,
-  "fecha": null,
-  "fecha_estado": "no_indicada",
-  "alertas": ["participantes_contradictorios"]
-}
-```
-
 # SOLICITUD
 
-[Texto del caso]
+<solicitud>
+{{solicitud}}
+</solicitud>

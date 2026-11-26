@@ -175,4 +175,6 @@ alertas:
 
 # SOLICITUD
 
-[Texto del caso]
+<solicitud>
+{{solicitud}}
+</solicitud>
