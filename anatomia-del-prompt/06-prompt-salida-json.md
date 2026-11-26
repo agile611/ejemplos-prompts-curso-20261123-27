@@ -8,8 +8,8 @@ Durará 90 minutos.
 El aula no está confirmada.
 
 # CAMPOS
-- participantes: número entero.
-- duracion_minutos: número entero.
-- aula: texto o null.
+- **participantes:** número entero.
+- **duracion_minutos:** número entero.
+- **aula:** texto o null.
 
 No añadas explicaciones ni bloques Markdown.

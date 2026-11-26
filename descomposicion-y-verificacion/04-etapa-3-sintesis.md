@@ -10,11 +10,11 @@ Presenta:
 - Datos pendientes.
 - Próximo paso propuesto en el informe.
 
-DATOS VERIFICADOS
-Proporción resuelta:
+## DATOS VERIFICADOS
+### Proporción resuelta:
 110 / 120 × 100 = 91,666...
 
-Presentación:
+### Presentación:
 91,67 %
 
 Disminución absoluta:
@@ -23,7 +23,7 @@ Disminución absoluta:
 Disminución relativa:
 2 / 8 × 100 = 25 %
 
-LIMITACIONES Y PROPUESTA
+## LIMITACIONES Y PROPUESTA
 Los resultados admiten conclusiones limitadas.
 
 Podemos afirmar:

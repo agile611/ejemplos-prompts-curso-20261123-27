@@ -13,10 +13,10 @@ Presenta:
 
 # ETAPAS
 ## DATOS VERIFICADOS
-Proporción resuelta:
+### Proporción resuelta:
 110 / 120 × 100 = 91,666...
 
-Presentación:
+### Presentación:
 91,67 %
 
 Disminución absoluta:
@@ -25,10 +25,10 @@ Disminución absoluta:
 Disminución relativa:
 2 / 8 × 100 = 25 %
 
-Periodo anterior:
+### Periodo anterior:
 Primera respuesta media de 120 minutos.
 
-Periodo actual:
+### Periodo actual:
 Primera respuesta media de 1,5 horas.
 
 # LIMITACIONES Y PROPUESTA
@@ -53,17 +53,17 @@ La mejora de un indicador no describe todo el servicio.
 Interpretar exige conservar límites de evidencia.
 
 # VERIFICACIONES
-Proporción resuelta:
-Numerador: 110 solicitudes resueltas.
-Denominador: 120 solicitudes recibidas.
+### Proporción resuelta:
+**Numerador:** 110 solicitudes resueltas.
+**Denominador:** 120 solicitudes recibidas.
 
-Cambio absoluto de primera respuesta:
+### Cambio absoluto de primera respuesta:
 Valor anterior menos valor actual.
 
-Reducción relativa:
+### Reducción relativa:
 Cambio absoluto dividido entre valor anterior.
 
-Presentación:
+### Presentación:
 Porcentajes con dos decimales.
 
 # CONDICIONES DE CONTINUIDAD

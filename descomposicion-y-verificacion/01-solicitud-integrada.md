@@ -15,8 +15,8 @@ Utiliza únicamente el informe.
 No atribuyas causas ni resultados no documentados.
 Presenta porcentajes con dos decimales.
 
-# INFORME SINTÉTICO DE OPERACIONES
-Periodo: primer trimestre
+#  INFORME SINTÉTICO DE OPERACIONES
+**Periodo:** primer trimestre
 
 Se recibieron 120 solicitudes:
 - 60 consultas de información.

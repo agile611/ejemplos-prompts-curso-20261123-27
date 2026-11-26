@@ -1,4 +1,4 @@
-Resumen
+**Resumen**
 
 Durante el primer trimestre se recibieron 120 solicitudes: 60 consultas de información, 40 incidencias técnicas y 20 sugerencias. Se resolvieron 110 solicitudes durante el periodo y 10 quedaron pendientes al cierre, lo que representa una proporción resuelta del 91,67 %. El tiempo medio de primera respuesta fue de 6 horas frente a 8 horas en el trimestre anterior. La disminución absoluta de la primera respuesta media fue de 2 horas y la reducción relativa fue del 25 % respecto al trimestre anterior. Las conclusiones deben interpretarse con cautela y dentro de los límites de la evidencia disponible.
 

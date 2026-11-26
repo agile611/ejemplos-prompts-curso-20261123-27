@@ -7,7 +7,7 @@ Solicita hasta tres datos necesarios para preparar opciones.
 No confirmes fechas, precios ni disponibilidad.
 No inventes servicios incluidos.
 
-CORREO
+## CORREO
 
 Hola:
 

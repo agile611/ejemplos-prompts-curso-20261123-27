@@ -1,17 +1,17 @@
-TAREA FINAL
+## TAREA FINAL
 [Resultado y destinatario]
 
-ETAPAS
+## ETAPAS
 [Nombre, entrada y salida de cada una]
 
-VERIFICACIONES
+## VERIFICACIONES
 [Referencia y método por etapa]
 
-CONDICIONES DE CONTINUIDAD
+## CONDICIONES DE CONTINUIDAD
 [Qué debe cumplirse antes de avanzar]
 
-GESTIÓN DE FALLOS
+## GESTIÓN DE FALLOS
 [Qué corregir, detener o escalar]
 
-EVIDENCIAS
+## EVIDENCIAS
 [Archivos y versiones que se conservarán]

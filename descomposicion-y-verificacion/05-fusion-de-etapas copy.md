@@ -13,10 +13,10 @@ Presenta:
 
 # ETAPAS
 ## DATOS VERIFICADOS
-Proporción resuelta:
+### Proporción resuelta:
 110 / 120 × 100 = 91,666...
 
-Presentación:
+### Presentación:
 91,67 %
 
 Disminución absoluta:
@@ -47,17 +47,17 @@ La mejora de un indicador no describe todo el servicio.
 Interpretar exige conservar límites de evidencia.
 
 # VERIFICACIONES
-Proporción resuelta:
-Numerador: 110 solicitudes resueltas.
-Denominador: 120 solicitudes recibidas.
+### Proporción resuelta:
+**Numerador:** 110 solicitudes resueltas.
+**Denominador:** 120 solicitudes recibidas.
 
-Cambio absoluto de primera respuesta:
+### Cambio absoluto de primera respuesta:
 Valor anterior menos valor actual.
 
-Reducción relativa:
+### Reducción relativa:
 Cambio absoluto dividido entre valor anterior.
 
-Presentación:
+### Presentación:
 Porcentajes con dos decimales.
 
 # CONDICIONES DE CONTINUIDAD
@@ -78,7 +78,7 @@ No interpretes causas.
 Indica los datos no disponibles.
 
 # INFORME SINTÉTICO DE OPERACIONES
-Periodo: primer trimestre
+**Periodo:** primer trimestre
 
 Se recibieron 120 solicitudes:
 - 60 consultas de información.

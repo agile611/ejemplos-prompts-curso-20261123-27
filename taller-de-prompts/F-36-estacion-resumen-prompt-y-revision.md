@@ -1,4 +1,4 @@
-Extrae las acciones de las notas.
+**Extrae las acciones de las notas.**
 
 Devuelve una tabla con:
 - Acción.

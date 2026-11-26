@@ -14,7 +14,7 @@ Devuelve una tabla con:
 Utiliza "No indicado" cuando falte un dato.
 No conviertas un periodo propuesto en una fecha confirmada.
 
-# CORREO
+#  CORREO
 
 Hola:
 

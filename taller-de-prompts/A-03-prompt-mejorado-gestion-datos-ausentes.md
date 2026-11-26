@@ -14,7 +14,7 @@ Si el correo indica expresamente que falta definirlo,
 conserva esa condición en el estado.
 
 # CORREO
-ASUNTO: Solicitud de formación introductoria
+# ASUNTO: Solicitud de formación introductoria
 
 Hola:
 

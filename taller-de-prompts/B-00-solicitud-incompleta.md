@@ -1,4 +1,4 @@
-ASUNTO: Consulta sobre una formación
+# ASUNTO: Consulta sobre una formación
 
 Hola:
 

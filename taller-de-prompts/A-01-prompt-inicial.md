@@ -6,7 +6,7 @@ Ponme una tabla todos los datos relevantes.
 No te inventes cosas y sé fiel a la fuente.
 
 # CORREO
-ASUNTO: Solicitud de formación introductoria
+# ASUNTO: Solicitud de formación introductoria
 
 Hola:
 

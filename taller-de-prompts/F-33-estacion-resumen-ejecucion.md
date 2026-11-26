@@ -9,7 +9,7 @@ Incluye:
 Utiliza únicamente la fuente.
 No atribuyas causas ni mejoras de satisfacción.
 
-INFORME FICTICIO DE SOPORTE
+# INFORME FICTICIO DE SOPORTE
 
 Se recibieron 80 solicitudes durante abril.
 Se resolvieron 72.

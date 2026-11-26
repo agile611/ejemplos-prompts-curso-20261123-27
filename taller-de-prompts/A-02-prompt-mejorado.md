@@ -8,7 +8,7 @@ Devuelve una tabla con:
 - Estado.
 
 # CORREO
-ASUNTO: Solicitud de formación introductoria
+# ASUNTO: Solicitud de formación introductoria
 
 Hola:
 

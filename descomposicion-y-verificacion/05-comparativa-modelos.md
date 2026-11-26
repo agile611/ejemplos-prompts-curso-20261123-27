@@ -8,7 +8,7 @@ Se ha ejecutado el mismo prompt de entrada (`05-fusion-de-etapas.md`) sobre 4 mo
 - Próximo paso propuesto
 
 ## Entrada común
-Archivo: `05-fusion-de-etapas.md` (estructura: TAREA FINAL → ETAPAS → VERIFICACIONES → CONDICIONES DE CONTINUIDAD → GESTIÓN DE FALLOS → EVIDENCIAS → INFORME)
+**Archivo:** `05-fusion-de-etapas.md` (estructura: TAREA FINAL → ETAPAS → VERIFICACIONES → CONDICIONES DE CONTINUIDAD → GESTIÓN DE FALLOS → EVIDENCIAS → INFORME)
 
 ## Salidas a comparar
 | Modelo | Archivo |
@@ -24,7 +24,7 @@ Archivo: `05-fusion-de-etapas.md` (estructura: TAREA FINAL → ETAPAS → VERIFI
 
 > **Actúa como evaluador experto en calidad de salidas de LLM.**  
 > Recibes 4 respuestas generadas por distintos modelos ante **exactamente la misma entrada**.  
-> Tu tarea: **comparar, contrastar y puntuar** cada respuesta según los criterios abajo.
+**> Tu tarea:** **comparar, contrastar y puntuar** cada respuesta según los criterios abajo.
 >
 > **Entrega:** Un informe en markdown con:
 >
@@ -78,7 +78,7 @@ Archivo: `05-fusion-de-etapas.md` (estructura: TAREA FINAL → ETAPAS → VERIFI
 > ### 4. Conclusión y recomendación
 > - ¿Qué modelo interpreta mejor la **intención estricta** del prompt (solo TAREA FINAL)?
 > - ¿Qué modelo interpreta mejor el **contexto completo** (incluye CONDICIONES DE CONTINUIDAD)?
-> - Recomendación según caso de uso: "síntesis ejecutiva estricta" vs "informe analítico completo".
+**> - Recomendación según caso de uso:** "síntesis ejecutiva estricta" vs "informe analítico completo".
 
 ---
 

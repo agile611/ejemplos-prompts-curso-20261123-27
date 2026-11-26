@@ -14,8 +14,8 @@ No calcules porcentajes.
 No interpretes causas.
 Indica los datos no disponibles.
 
-INFORME SINTÉTICO DE OPERACIONES
-Periodo: primer trimestre
+# INFORME SINTÉTICO DE OPERACIONES
+**Periodo:** primer trimestre
 
 Se recibieron 120 solicitudes:
 - 60 consultas de información.

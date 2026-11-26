@@ -1,4 +1,4 @@
-ASUNTO: Solicitud de una sesión
+# ASUNTO: Solicitud de una sesión
 
 Hola:
 

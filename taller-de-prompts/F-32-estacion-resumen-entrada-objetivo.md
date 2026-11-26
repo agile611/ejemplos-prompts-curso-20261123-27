@@ -1,4 +1,4 @@
-INFORME FICTICIO DE SOPORTE
+# INFORME FICTICIO DE SOPORTE
 
 Se recibieron 80 solicitudes durante abril.
 Se resolvieron 72.

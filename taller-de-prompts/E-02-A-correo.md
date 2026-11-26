@@ -19,13 +19,13 @@ Si hay valores incompatibles, conserva ambos y marca "Contradictorio".
 # SALIDA
 
 Tabla con campo, valor, estado y evidencia breve.
-Campos: tema, público, participantes, duración, modalidad,
+**Campos:** tema, público, participantes, duración, modalidad,
 fecha o periodo y persona de contacto.
 Después, incluye hasta tres preguntas prioritarias de aclaración.
 
-# CORREO
+#  CORREO
 
-ASUNTO: Solicitud de formación introductoria
+# ASUNTO: Solicitud de formación introductoria
 
 Hola:
 

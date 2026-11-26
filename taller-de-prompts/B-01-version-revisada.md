@@ -14,7 +14,7 @@ Si el correo indica expresamente que falta definirlo,
 conserva esa condición en el estado.
 
 # CORREO
-ASUNTO: Consulta sobre una formación
+# ASUNTO: Consulta sobre una formación
 
 Hola:
 
