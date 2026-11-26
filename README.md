@@ -37,3 +37,11 @@ Prompts de ejemplo zero-shot y few-shot, tanto generales como para extracción; 
 ## Agentes de ejemplo
 
 `zero-shot-y-few-shot/ZeroShot.Agent.md` y `zero-shot-y-few-shot/FewShot.Agent.md` contienen definiciones de agentes dirigidas a VS Code. No hay configuraciones de agentes guardadas en `.copilot/agents/` en este repositorio.
+
+## Autoría y licencia
+
+| Campo | Información |
+|---|---|
+| Autor | Guillem Hernández Sola |
+| Organización | Agile611 |
+| Licencia | [Apache License 2.0](LICENSE) |
