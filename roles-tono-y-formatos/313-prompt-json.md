@@ -1,4 +1,4 @@
-Extrae los datos del correo y devuelve únicamente JSON válido.
+Extrae los datos del correo y devuelve únicamente JSON válido formateado en minify.
 
 Utiliza el esquema incluido abajo.
 No añadas bloques Markdown ni explicaciones externas.
