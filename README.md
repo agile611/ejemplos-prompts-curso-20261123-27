@@ -30,6 +30,10 @@ Caso de análisis de un informe de operaciones, trabajado mediante extracción d
 
 Prompts de ejemplo zero-shot y few-shot, tanto generales como para extracción; casos de desarrollo con zero-shot y dos archivos de agente (`ZeroShot.Agent.md` y `FewShot.Agent.md`) con instrucciones y ejemplos.
 
+### `laboratorio-comparativo/`
+
+[Laboratorio Comparativo](https://docs.agile611.com/curso-prompt-engineering/dia-02-tecnicas/04-laboratorio-comparativo/) — ejercicios de comparación de prompts con condiciones A y B, incluyendo prompts base y definiciones de agente.
+
 ### `docs/`
 
 - `markdown.md` — guía introductoria de Markdown.

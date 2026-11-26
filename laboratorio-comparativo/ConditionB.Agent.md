@@ -1,5 +1,5 @@
 ---
-name: ConditionA.Agent
+name: ConditionB.Agent
 description: A custom agent for extracting training requirements from a request in VS Code.
 target: vscode
 user-invocable: true
