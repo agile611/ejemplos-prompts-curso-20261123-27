@@ -9,6 +9,7 @@ Repositorio de materiales y ejercicios del curso de Prompt Engineering de Agile6
 - [Zero-shot y Few-shot (Día 2)](https://docs.agile611.com/curso-prompt-engineering/dia-02-tecnicas/01-zero-shot-y-few-shot/#43-few-shot-para-extraccion)
 - [Diseño de Pruebas (Día 3)](https://docs.agile611.com/curso-prompt-engineering/dia-03-evaluacion-y-seguridad/01-diseno-de-pruebas/)
 - [Refinamiento y Versionado (Día 3)](https://docs.agile611.com/curso-prompt-engineering/dia-03-evaluacion-y-seguridad/02-refinamiento-y-versionado)
+- [Seguridad y Prompt Injection (Día 3)](https://docs.agile611.com/curso-prompt-engineering/dia-03-evaluacion-y-seguridad/)
 
 ## Contenido
 
@@ -39,6 +40,10 @@ Ejercicios de evaluación y seguridad: extracción de requisitos con políticas 
 ### `refinamiento-y-versionado/`
 
 Ejercicios de extracción iterativa con correcciones explícitas y gestión de contradicciones: casos F01, CH-01, R01–R03. Se respalda en [Refinamiento y Versionado (Día 3)](https://docs.agile611.com/curso-prompt-engineering/dia-03-evaluacion-y-seguridad/02-refinamiento-y-versionado).
+
+### `seguridad-y-prompt-injection/`
+
+Ejercicios de seguridad: detección de inyecciones de prompt, instrucciones incrustadas, extracción bajo ataque y defensa por capas. Se respalda en [Seguridad y Prompt Injection (Día 3)](https://docs.agile611.com/curso-prompt-engineering/dia-03-evaluacion-y-seguridad/).
 
 ### `laboratorio-comparativo/`
 
