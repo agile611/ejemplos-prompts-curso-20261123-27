@@ -7,6 +7,7 @@ Repositorio de materiales y ejercicios del curso de Prompt Engineering de Agile6
 - [Taller de Prompts (Día 1)](https://docs.agile611.com/curso-prompt-engineering/dia-01-fundamentos/04-taller-de-prompts/)
 - [Anatomía del Prompt (Día 1)](https://docs.agile611.com/curso-prompt-engineering/dia-01-fundamentos/03-anatomia-del-prompt/)
 - [Zero-shot y Few-shot (Día 2)](https://docs.agile611.com/curso-prompt-engineering/dia-02-tecnicas/01-zero-shot-y-few-shot/#43-few-shot-para-extraccion)
+- [Diseño de Pruebas (Día 3)](https://docs.agile611.com/curso-prompt-engineering/dia-03-evaluacion-y-seguridad/01-diseno-de-pruebas/)
 
 ## Contenido
 
@@ -29,6 +30,10 @@ Caso de análisis de un informe de operaciones, trabajado mediante extracción d
 ### `zero-shot-y-few-shot/`
 
 Prompts de ejemplo zero-shot y few-shot, tanto generales como para extracción; casos de desarrollo con zero-shot y dos archivos de agente (`ZeroShot.Agent.md` y `FewShot.Agent.md`) con instrucciones y ejemplos.
+
+### `diseno-y-pruebas/`
+
+Ejercicios de evaluación y seguridad: extracción de requisitos con políticas estrictas, casos de prueba (D01–D04, T01–T06) y plantilla de evaluación. Se respalda en [Diseño de Pruebas (Día 3)](https://docs.agile611.com/curso-prompt-engineering/dia-03-evaluacion-y-seguridad/01-diseno-de-pruebas/).
 
 ### `laboratorio-comparativo/`
 
